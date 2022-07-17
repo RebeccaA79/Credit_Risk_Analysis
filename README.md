@@ -33,6 +33,8 @@ The purpose of this analysis is to gain insights into Lending Club's credit risk
 ![RandomOverSampler Balanced Accuracy](https://github.com/RebeccaA79/Credit_Risk_Analysis/blob/main/images/ros_ba_score.png)
 
  - The high risk precision rate is 1% with the recall at 74% giving this model an F1 of 2%. The low risk precision rate is 100% with a recall at 61%
+ 
+![RandomOverSampler Confusion Matrix](https://github.com/RebeccaA79/Credit_Risk_Analysis/blob/main/images/ros_confusion_matrix.png)
 
 ![RandomOverSampler Precision & Recall](https://github.com/RebeccaA79/Credit_Risk_Analysis/blob/main/images/ros_prec_recall_score.png)
 
