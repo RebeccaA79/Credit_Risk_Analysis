@@ -30,19 +30,34 @@ The purpose of this analysis is to gain insights into Lending Club's credit risk
 
  - The balanced accuracy score is 67%
 
+![RandomOverSampler Balanced Accuracy](https://github.com/RebeccaA79/Credit_Risk_Analysis/blob/main/images/ros_ba_score.png)
+
  - The high risk precision rate is 1% with the recall at 74% giving this model an F1 of 2%. The low risk precision rate is 100% with a recall at 61%
+
+![RandomOverSampler Precision & Recall](https://github.com/RebeccaA79/Credit_Risk_Analysis/blob/main/images/ros_prec_recall_score.png)
 
 ### SMOTE model
 
  - The balanced accuracy score is 66%
 
+![SMOTE Balanced Accuracy](https://github.com/RebeccaA79/Credit_Risk_Analysis/blob/main/images/smote_ba_score.png)
+
  - The high risk precision rate is 1% with the recall at 63% giving this model an F1 of 2%. The low risk precision rate is 100% with a recall at 69%
+
+![SMOTE Precision & Recall](https://github.com/RebeccaA79/Credit_Risk_Analysis/blob/main/images/smote_prec_recall_score.png)
+
 
 ### ClusterCentroids Model
 
  - The balanced accuracy score is 54%
 
+![ClusterCentroids Balanced Accuracy](https://github.com/RebeccaA79/Credit_Risk_Analysis/blob/main/images/clcent_ba_score.png)
+
+
  - The high risk precision rate is 1% with the recall at 69% giving this model an F1 of 1%. The low risk precision rate is 100% with a recall at 40%
+
+![ClusterCentroids Precision & Recall](https://github.com/RebeccaA79/Credit_Risk_Analysis/blob/main/images/clcent_precf_recall_score.png)
+
 
 
 Deliverable 2: Use the SMOTEENN Algorithm to Predict Credit Risk
@@ -51,8 +66,12 @@ Deliverable 2: Use the SMOTEENN Algorithm to Predict Credit Risk
 
  - The balanced accuracy score is 64%
 
+![SMOTEENN Balanced Accuracy](https://github.com/RebeccaA79/Credit_Risk_Analysis/blob/main/images/smoteenn_ba_score.png)
+
+
  - The high risk precision rate is 1% with the recall at 72% giving this model an F1 of 2%. The low risk precision rate is 100% with a recall at 57%
 
+![SMOTEENN Precision & Recall](https://github.com/RebeccaA79/Credit_Risk_Analysis/blob/main/images/smoteenn_prec_recall_score.png)
 
 Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
 
