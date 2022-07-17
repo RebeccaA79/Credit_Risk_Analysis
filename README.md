@@ -46,6 +46,8 @@ The purpose of this analysis is to gain insights into Lending Club's credit risk
 
  - The high risk precision rate is 1% with the recall at 63% giving this model an F1 of 2%. The low risk precision rate is 100% with a recall at 69%
 
+![SMOTE confusion matrix](https://github.com/RebeccaA79/Credit_Risk_Analysis/blob/main/images/smote_confusion_matrix.png)
+
 ![SMOTE Precision & Recall](https://github.com/RebeccaA79/Credit_Risk_Analysis/blob/main/images/smote_prec_recall_score.png)
 
 
@@ -58,6 +60,7 @@ The purpose of this analysis is to gain insights into Lending Club's credit risk
 
  - The high risk precision rate is 1% with the recall at 69% giving this model an F1 of 1%. The low risk precision rate is 100% with a recall at 40%
 
+![ClusterCentroids Confusion Matrix](https://github.com/RebeccaA79/Credit_Risk_Analysis/blob/main/images/clcent_confusion_matrix.png)
 ![ClusterCentroids Precision & Recall](https://github.com/RebeccaA79/Credit_Risk_Analysis/blob/main/images/clcent_precf_recall_score.png)
 
 
@@ -73,6 +76,7 @@ Deliverable 2: Use the SMOTEENN Algorithm to Predict Credit Risk
 
  - The high risk precision rate is 1% with the recall at 72% giving this model an F1 of 2%. The low risk precision rate is 100% with a recall at 57%
 
+![SMOTEEN Confusion Matrix](https://github.com/RebeccaA79/Credit_Risk_Analysis/blob/main/images/smoteenn_confusion_matrix.png)
 ![SMOTEENN Precision & Recall](https://github.com/RebeccaA79/Credit_Risk_Analysis/blob/main/images/smoteenn_prec_recall_score.png)
 
 Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
